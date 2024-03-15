@@ -1,5 +1,5 @@
 
-![](Screenshot/mainPage.png)
+![](screenshot/app.gif)
 
 #  Clima
 
